@@ -49,7 +49,7 @@ Duplicate detection in product datasets is a critical task in e-commerce and inv
 ## Overview of Notebook Sections
 
 ### Data Cleaning
-This section processes the raw dataset to prepare it for analysis. It involves handling missing values, normalizing text fields, and other preprocessing tasks to ensure data consistency and reliability.
+This section processes the raw dataset to prepare it for analysis. It involves handling missing values, normalising text fields, and other preprocessing tasks to ensure data consistency and reliability.
 
 ### TF-IDF Selection of Features
 This section computes Term Frequency-Inverse Document Frequency (TF-IDF) scores for product descriptions. The highest-scoring terms are selected as features for downstream similarity computations.
